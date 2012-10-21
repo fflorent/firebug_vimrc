@@ -3,7 +3,8 @@ source ~/.vimrc
 
 
 " * * * * * * * * * * * * * * * * * * * * *
-" STUFFS YOU MAY PUT IN YOUR .VIMRC
+" GENERAL
+" stuffs you may want to put in your .vimrc
 
 set autoindent
 "  avoids crazy indenting when pasting tabulated code
@@ -23,7 +24,7 @@ set softtabstop=4
 " trailing spaces shown as underscores
 set list listchars=trail:_
 
-" show a red background when exceed 100 caracters
+" show a red background when exceed 100 characters
 match ErrorMsg '\%>100v.\+'
 
 " automatically add space after: if, with, while, for, switch
