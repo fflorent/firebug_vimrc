@@ -1,10 +1,19 @@
 " reuse own's .vimrc
 source ~/.vimrc
+
+
 " * * * * * * * * * * * * * * * * * * * * *
-" stuffs you may put in your .vimrc
+" STUFFS YOU MAY PUT IN YOUR .VIMRC
+
 set autoindent
 "  avoids crazy indenting when pasting tabulated code
 set copyindent
+
+
+
+
+" * * * * * * * * * * * * * * * * * * * * *
+" CODING STYLE
 
 " setting width of the tabs
 set expandtab
