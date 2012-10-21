@@ -1,0 +1,12 @@
+source /home/florent/.vimrc
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+set list listchars=trail:_
+match ErrorMsg '\%>100v.\+'
+" Coding Style
+iab if if<Space>
+iab with with<Space>
+iab while while<Space>
+iab for for<Space>
+iab switch switch<Space>
