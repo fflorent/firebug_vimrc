@@ -4,7 +4,7 @@ firebug_vimrc
 Introduction
 ------------
 
-This .vimrc_fb file is my personal vimrc file I use to edit the Firebug's code.
+This .vimrc\_fb file is my personal vimrc file I use to edit the code of Firebug.
 
 How to use it
 -------------
@@ -22,3 +22,5 @@ How to use it
 6) Type `source ~/.bashrc`
 
 7) Try vimfb /path/to/a/firebug/file to test this
+
+8) Do not hesitate to fork this repo and share your own vimrc !
